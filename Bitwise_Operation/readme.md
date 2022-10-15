@@ -1,5 +1,9 @@
 # Bitwise Operation Techniques
 
+## Links
+
+[Jserv Bitwise Operation](https://hackmd.io/@sysprog/c-bitwise)
+
 ## 1. Set nth bit of integer x
 ```x | (1<<n)```
 Example
