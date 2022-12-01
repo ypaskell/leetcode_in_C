@@ -1,5 +1,7 @@
 #define max(a, b) ((a) > (b) ? (a) : (b))
 
+/* Technique: two pointers */
+
 int maxPower(char *s) {
   int res = 1;
   char *l = s;
